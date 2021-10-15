@@ -1,0 +1,4 @@
+{:deps {}
+ :aliases
+ {:dev
+  {:extra-deps {cljc.java-time/cljc.java-time {:mvn/version "0.1.16"}}}}}
